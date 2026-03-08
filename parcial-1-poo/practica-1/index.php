@@ -3,7 +3,7 @@
 include "Usuario.php";
 
 // crear objeto
-$usuario = new Usuario("Valeria", "valeria@email.com");
+$usuario = new Usuario("Valeria", "vaalriasal@gmail.com");
 
 // mostrar datos
 echo "Nombre: " . $usuario->getNombre();

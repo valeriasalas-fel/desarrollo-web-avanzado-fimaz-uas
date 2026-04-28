@@ -26,7 +26,7 @@ class Alumno extends Usuario {
 
     // metodo que devuelve el rol
     public function getRol() {
-        return "Alumno";
+        return "alumno";
     }
 
 }
